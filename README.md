@@ -1,2 +1,2 @@
-# nautilus
+# Nautilus
 Enterprise data intelligence platform
