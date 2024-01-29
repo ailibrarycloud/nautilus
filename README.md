@@ -17,4 +17,5 @@ Nautilus is a Data Intelligence AI Assistant that uses multiple AI technologies 
 
 ## Product Architecture
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Nautilus Product Architecture](https://github.com/ailibrarycloud/nautilus/blob/main/nautilus-product-architecture.png?raw=true)
+
